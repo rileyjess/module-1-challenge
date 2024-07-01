@@ -22,7 +22,7 @@ Completed Tasks:
 
 ## Website Screenshot
 
-!(Horiseon Website Screenshot.png)
+![Horiseon Website Screenshot](https://github.com/rileyjess/module-1-challenge/assets/172862789/3d5ad6de-ed90-4250-8572-d22aa6c6f6a5)
 
 ## Deployed Website
 
